@@ -6,14 +6,11 @@ Name: Rayyan Qaiser Jarral
 Reg.No: BAI243044
 Email: gamerbros33046@gmail.com
 
-In this project, I used Linear Regression to make predictions using a dataset.
 
 ---
 
 Dataset:
 original_dataset.csv  
-
----
 
 What I did in steps: 
 
