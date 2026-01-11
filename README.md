@@ -3,7 +3,9 @@ AI assignment done using google collab and a dataset from kaggle
 
 
 Name: Rayyan Qaiser Jarral
+
 Reg.No: BAI243044
+
 Email: gamerbros33046@gmail.com
 
 
