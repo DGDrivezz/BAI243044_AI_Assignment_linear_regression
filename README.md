@@ -2,8 +2,9 @@
 AI assignment done using google collab and a dataset from kaggle 
 
 
-Name: Syed Intisar Shah Jaffary  
-Email: syedintisarshahjaffary@gmail.com  
+Name: Rayyan Qaiser Jarral
+Reg.No: BAI243044
+Email: gamerbros33046@gmail.com
 
 In this project, I used Linear Regression to make predictions using a dataset.
 
